@@ -1,0 +1,19 @@
+.nav-link{
+    color: #fff;
+}
+
+nav{
+    font-family: 'Bebas Neue', cursive;
+}
+
+form{
+    font-family: 'Bebas Neue', cursive;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 50px;
+    background-color: #e6e6e6;
+}
+
+label{
+    padding-top: 10px;
+}

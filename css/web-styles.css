@@ -1,0 +1,72 @@
+.nav-link{
+    color: #fff;
+}
+
+table{
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+}
+
+nav{
+    font-family: 'Teko', sans-serif;
+}
+
+th
+{
+    color: #fff;
+    font-size: 80px;
+}
+
+td h2
+{
+    font-size: 60px;
+    
+}
+
+
+td h2 a:hover{
+    text-decoration: none;
+}
+
+
+.inputimg
+{
+    width: 900px;
+    height: 500px;
+}
+
+
+.img1
+{
+    background-color: #1a1a33;
+    padding-bottom: 20px;
+}
+
+
+.img2
+{
+    background-color: #ffff66;
+    padding-bottom: 20px;
+
+}
+
+
+.img3
+{
+    background-color: #fff;
+    padding-bottom: 20px;
+
+}
+
+.img4
+{
+    background-color: #828282;
+    padding-bottom: 20px;
+}
+
+
+.img5
+{
+    background-color: #618f61;
+    padding-bottom: 20px;
+}
